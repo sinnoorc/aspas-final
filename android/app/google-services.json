@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "316092710753",
+    "project_id": "aspas-66376",
+    "storage_bucket": "aspas-66376.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316092710753:android:a8e418a8aef639fe9f8f20",
+        "android_client_info": {
+          "package_name": "io.sinnoor.aspas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316092710753-3c1vdtvrr14jmur4kok9fsiq4liu6ruc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLHXOCaZdQ-BpBo8KevpB0Ekp9P-uBGzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316092710753-3c1vdtvrr14jmur4kok9fsiq4liu6ruc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
